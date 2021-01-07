@@ -38,3 +38,7 @@ body,
   width: 60%;
   letter-spacing: 1px;
 }
+.heading p a {
+  margin:0 10px
+}
+
