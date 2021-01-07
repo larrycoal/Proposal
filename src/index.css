@@ -20,7 +20,7 @@ body,
   top: 0;
   height: 100%;
   width: 100%;
-  z-index: -10;
+  
   align-items: end;
 }
 .heading{
@@ -40,5 +40,15 @@ body,
 }
 .heading p a {
   margin:0 10px
+}
+@media(min-width:300px) and (max-width:480px){
+  .heading p {
+    width: 100%;
+    font-weight: 600;
+    font-size: small;
+  }
+  .proposal_text {
+    z-index: 10 !important;
+  }
 }
 
