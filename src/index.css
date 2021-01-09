@@ -17,10 +17,7 @@ body,
 .proposal_text {
   position: absolute;
   display: grid;
-  top: 0;
-  height: 100%;
-  width: 100%;
-  
+  bottom: 0;
   align-items: end;
 }
 .heading{
