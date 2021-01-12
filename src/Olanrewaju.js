@@ -4,7 +4,7 @@ const Olanrewaju = () => {
   return (
     <>
       <div className="heading">
-        <span>hi neu. heard you in need of a </span>
+        <span>hi fichaya. heard you in need of a </span>
         <span>FRONTEND Developer</span>
         <p>
           well look no further i got you covered. my name is OLAYIWOLA
